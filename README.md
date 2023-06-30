@@ -11,4 +11,4 @@ Finaly you need run sort.sh with this command : <br>
 ```
 ./sort.sh
 ```
-enjoy your life;)
+Enjoy your life ;)
